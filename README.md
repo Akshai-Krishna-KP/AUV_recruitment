@@ -12,6 +12,7 @@ But still i would say i am a complete noobie in about the topic.
 
 ## File locations
 
+```
 catkin_ws/
     ├── build/
     ├── devel/
@@ -26,6 +27,7 @@ catkin_ws/
             ├── scripts/
             │   ├── add_node.py
             │   ├── multiplier_node.py
-            |   └── two_multiplier_publisher.py
+            │   └── two_multiplier_publisher.py
             ├── CMakeLists.txt
             └── package.xml
+```
